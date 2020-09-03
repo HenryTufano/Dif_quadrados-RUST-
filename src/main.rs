@@ -31,7 +31,6 @@ fn main() {
                 
                 
             }else {
-                println!("{}",y);
                 z= y*y;
                 println!("O quadrado da soma dos primeiros dez números naturais é: {}",z);
                 println!("A soma dos quadrados dos primeiros dez números naturais é: {}",w);
